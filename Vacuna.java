@@ -1,3 +1,5 @@
+//este comentario forma parte del segundo commit
+//“2n comit main” 
 public class Vacuna {
 	private String nom;
 	private float efectivitat;
