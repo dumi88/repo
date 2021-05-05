@@ -1,3 +1,4 @@
+//este comentario forma parte del segundo commit
 public class Vacuna {
 	private String nom;
 	private float efectivitat;
